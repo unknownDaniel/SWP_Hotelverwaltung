@@ -1,0 +1,12 @@
+C:\Users\dkopp\OneDrive\Desktop\SWP\C#\Hotelverwaltung\Hotelverwaltung.Models\bin\Debug\net7.0\Hotelverwaltung.Models.deps.json
+C:\Users\dkopp\OneDrive\Desktop\SWP\C#\Hotelverwaltung\Hotelverwaltung.Models\bin\Debug\net7.0\Hotelverwaltung.Models.dll
+C:\Users\dkopp\OneDrive\Desktop\SWP\C#\Hotelverwaltung\Hotelverwaltung.Models\bin\Debug\net7.0\Hotelverwaltung.Models.pdb
+C:\Users\dkopp\OneDrive\Desktop\SWP\C#\Hotelverwaltung\Hotelverwaltung.Models\obj\Debug\net7.0\Hotelverwaltung.Models.csproj.AssemblyReference.cache
+C:\Users\dkopp\OneDrive\Desktop\SWP\C#\Hotelverwaltung\Hotelverwaltung.Models\obj\Debug\net7.0\Hotelverwaltung.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dkopp\OneDrive\Desktop\SWP\C#\Hotelverwaltung\Hotelverwaltung.Models\obj\Debug\net7.0\Hotelverwaltung.Models.AssemblyInfoInputs.cache
+C:\Users\dkopp\OneDrive\Desktop\SWP\C#\Hotelverwaltung\Hotelverwaltung.Models\obj\Debug\net7.0\Hotelverwaltung.Models.AssemblyInfo.cs
+C:\Users\dkopp\OneDrive\Desktop\SWP\C#\Hotelverwaltung\Hotelverwaltung.Models\obj\Debug\net7.0\Hotelverwaltung.Models.csproj.CoreCompileInputs.cache
+C:\Users\dkopp\OneDrive\Desktop\SWP\C#\Hotelverwaltung\Hotelverwaltung.Models\obj\Debug\net7.0\Hotelverwaltung.Models.dll
+C:\Users\dkopp\OneDrive\Desktop\SWP\C#\Hotelverwaltung\Hotelverwaltung.Models\obj\Debug\net7.0\refint\Hotelverwaltung.Models.dll
+C:\Users\dkopp\OneDrive\Desktop\SWP\C#\Hotelverwaltung\Hotelverwaltung.Models\obj\Debug\net7.0\Hotelverwaltung.Models.pdb
+C:\Users\dkopp\OneDrive\Desktop\SWP\C#\Hotelverwaltung\Hotelverwaltung.Models\obj\Debug\net7.0\ref\Hotelverwaltung.Models.dll
